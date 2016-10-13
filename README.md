@@ -1,0 +1,2 @@
+# financialaccounting
+This web application provides an approach to account the company’s revenue. It can be used to evaluate how the enterprise is performing, to assess the risk in the business and whether to keep, buy (i.e. invest more) or sell the enterprise, to determine whether profits can be distributed, to manage cash flow, collect money due from debtors, the Tax authorities need information to assess the taxation, to assess risk in the credit decisions and also to provide the information to the statisticians who needs information for statistical purposes.
